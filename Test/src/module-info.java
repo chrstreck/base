@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author cstreck
- *
- */
-module Test {
-}
